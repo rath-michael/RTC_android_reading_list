@@ -1,4 +1,4 @@
-# RTC_android_reading_list
+# Android Reading List
 
 ## Tables of contents
 * [Description](#description)
